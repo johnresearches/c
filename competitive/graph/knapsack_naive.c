@@ -1,5 +1,5 @@
 /*
-	Naive Knapsack
+	Naive/heuristic Knapsack
 	
 */
 
