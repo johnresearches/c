@@ -6,7 +6,6 @@ void displayPathtoPrincess(int n, char grid[101][101]){
     //    printf("RIGHT");
     //    printf("\n");
     //    printf("UP");  
-    
     int botrows=0, botcols=0, prinrows=0, princols =0;
     
     if(n < 100 && n % 2 != 0){
