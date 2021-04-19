@@ -3,7 +3,7 @@
 #include <math.h>
 void displayPathtoPrincess(int n, char grid[101][101]){
     
-    // declare variables
+    // declare variable
     //    printf("RIGHT");
     //    printf("\n");
     //    printf("UP");  
