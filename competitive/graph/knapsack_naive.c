@@ -1,6 +1,5 @@
 /*
 	Naive/heuristic Knapsack
-	
 */
 
 //#include <bits/stdc++.h>
