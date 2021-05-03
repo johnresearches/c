@@ -8,6 +8,7 @@
 void displayPathtoPrincess(int n, char grid[101][101]){
     
     // declare variable
+    
     //    printf("RIGHT");
     //    printf("\n");
     //    printf("UP");  
