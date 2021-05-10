@@ -1,5 +1,5 @@
 /*
-	Naive/heuristic Knapsack
+	heuristic Knapsack
 */
 
 //#include <bits/stdc++.h>
