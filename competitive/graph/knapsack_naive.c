@@ -1,11 +1,8 @@
 /*
 	heuristic Knapsack
 */
-
 //#include <bits/stdc++.h>
-
 #include <stdio.h>
-
 //using namespace std;
 
 int max(int a, int b){
