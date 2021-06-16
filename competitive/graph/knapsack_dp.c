@@ -1,5 +1,5 @@
 /*
-	knapsack dp version
+	knapsack dp versions
 */
 
 #include <stdio.h>
